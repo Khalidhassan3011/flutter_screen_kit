@@ -1,12 +1,25 @@
 # FLUTTER SCREEN KIT
-#### Environment
+This toolkit is designed to simplify the process of creating beautiful and functional screens for your app, and offers a collection of pre-designed, customizable widgets and templates that can be used to build your user interface.
 
-| OS      | SDK                            | Editor         | Testing Device            |
-|:--      | :----:                         | :----:         |                      ---: |
-|Mac      | Flutter 3.3.10 • channel stable| Android Studio | Emulator - Pixel 5 API 30 |
-|         | Dart 2.18.6 • DevTools 2.15.0  |                | Simulator - Iphone 14     |
-|         |                                |                | Real Device - Poco 5      |
-|Windows  |Flutter 3.3.10 • channel stable | Android Studio | Emulator - Google Pixel 6 |
-|         |Dart 2.18.6 • DevTools 2.15.0   |                | Real Device -Vivo y21     |
+##### Platform Support
+| Android  | iOS  | Linux | MacOS | Web   | Windows |
+|----------|------|-------|-------|-------|---------|
+|     ✔    |   ✔  |   ✔   |  ✔    |   ✔   | ✔      |
 
 
+##### Getting Started
+
+
+In the `pubspec.yaml` of your flutter project, add the following dependency:
+
+```yaml  
+dependencies:  
+    flutter_screen_kit: ^0.0.1
+```  
+
+Import it:
+```dart  
+import 'package:flutter_screen_kit/flutter_screen_kit.dart';
+```  
+#### Screens
+- [On Board](readmes/ONBOARD.md) 
