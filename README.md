@@ -23,4 +23,5 @@ import 'package:flutter_screen_kit/flutter_screen_kit.dart';
 ```  
 #### Screens
 - [On Board](readmes/ONBOARD.md)
-- <a href="readmes/ONBOARD.md" target="_blank"> On Board</a>
+- <a href="readmes/ONBOARD.md" target="_blank">Opens in new tab</a>
+- <a href="readmes/ONBOARD.md" target="_blank">Hello, google!</a>
